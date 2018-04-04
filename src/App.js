@@ -52,7 +52,7 @@ class MyPage extends React.Component {
         tab: <Tab label='Home' icon='md-home' />
       },
       {
-        content: <MyTab content="Next Page" />,
+        content: <MyTab content="Next Page desu" />,
         tab: <Tab label='Next' icon='ion-android-pin' />
       },
       {
